@@ -7,5 +7,5 @@ Special thanks to [Keith Wood's jQuery Countdown](http://keith-wood.name/countdo
 
 Demo available at http://lcdvirgo.github.io/chiphasgoneveganfor
 
-![alt tag](https://raw.githubusercontent.com/lcdvirgo/chiphasgoneveganfor/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/lcdvirgo/chiphasgoneveganfor/gh-pages/screenshot.png)
 Screenshot of Chip Has Gone Vegan For Website Homepage

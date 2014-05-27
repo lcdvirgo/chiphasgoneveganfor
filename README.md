@@ -9,3 +9,5 @@ Demo available at http://lcdvirgo.github.io/chiphasgoneveganfor
 
 ![alt tag](https://raw.githubusercontent.com/lcdvirgo/chiphasgoneveganfor/gh-pages/screenshot.png)
 Screenshot of Chip Has Gone Vegan For Website Homepage
+
+P/S: Please ignore the folder "jquery.countdown.package-2.0.0". That was for my first draft of the website.
